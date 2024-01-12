@@ -6,6 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=corosica1)](https://solved.ac/corosica1)
 
+(https://github-readme-stats.vercel.app/api?username=hbsowo58&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![corosica profile](http://mazandi.herokuapp.com/api?handle=corosica1&theme=dark)
